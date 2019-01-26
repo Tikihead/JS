@@ -1,5 +1,3 @@
-// UNCOMMENT TO SEE IN ACTION
-
 window.addEventListener('load', function()
 {    var bodybtn = document.querySelectorAll('button');
      bodybtn.forEach(function(e)
